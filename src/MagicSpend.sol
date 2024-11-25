@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity 0.8.23;
+pragma solidity ^0.8.23;
 
 import {Ownable} from "solady/auth/Ownable.sol";
 import {SignatureCheckerLib} from "solady/utils/SignatureCheckerLib.sol";
